@@ -3,13 +3,13 @@
 <h1 align="center">Watch me</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mb4ndeira/watchme">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mb4ndeira/watch-me">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mb4ndeira/watchme">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mb4ndeira/watch-me">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mb4ndeira/watchme?color=%23007acc">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mb4ndeira/watch-me?color=%23007acc">
 
-  <img alt="License" src="https://img.shields.io/github/license/mb4ndeira/watchme">
+  <img alt="License" src="https://img.shields.io/github/license/mb4ndeira/watch-me">
 </p>
 
 <!-- Status -->
@@ -45,10 +45,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/mb4ndeira/to-do_react
+$ git clone https://github.com/mb4ndeira/watch-me
 
 # Access
-$ cd to-do_react
+$ cd watch-me
 
 # Install dependencies
 $ yarn
